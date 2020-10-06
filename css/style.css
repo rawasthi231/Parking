@@ -1,1 +1,62 @@
-Its a test file inside a folder
+        body{
+    		background-color: #efefef;
+    	}
+    	td a:visited{
+            color: #00df00;
+        }
+        td a:hover{
+            text-decoration: none;
+            color: #ef4400;
+        }
+        .header{
+    		margin-top: 10px;
+    		height: 80px;
+    		background-color: #f0102f;
+    		border-radius: 50px;
+    	}
+    	.header .floatleft{
+    		float: left;
+    		margin-left: 20px;
+    	}
+    	.header .floatright{
+    		float: right;
+    		margin-right: : 20px;
+    	}
+        .header .floatright h4{
+            color: #efefef; 
+            margin-top: 20px; 
+            margin-right: 40px; 
+            display: inline-block;
+        }
+        .header .floatright button{
+            margin-right: 30px;
+        }
+    	.header .floatleft ul{
+    		display:inline-table;
+    	}
+    	.form-control{
+    		width: 400px;
+    	}
+    	input{
+    		width: 150px;
+    	}
+
+        .hideVehicleNo{
+            display: none;
+        }
+        input[type=radio]{
+            margin-left: -60px;
+            margin-right: -60px;
+        }
+        table{
+            text-align: center;
+        }
+        .onPageNavigation a{
+            color: #002fff;
+        }
+        .onPageNavigation a:hover{
+            color: #af2f00;
+            text-decoration: none;
+        }
+
+
